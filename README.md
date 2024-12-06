@@ -30,7 +30,9 @@ IV. Instructions for Running the Program
 
 <Prerequisites>
 Java Development Kit (JDK): Ensure you have JDK 17 or later installed.
+
 IDE/Text Editor: Use an IDE like BlueJ, or a text editor like VS Code with Java extensions.
+
 Terminal: Required to compile and run the program.
 
 <Steps to Run>
