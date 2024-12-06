@@ -62,5 +62,6 @@ Choose an option:
 
 
 ---Additional Notes---
+
 Input validation ensures only valid data is accepted.
 The program exits when option 7 is chosen.
