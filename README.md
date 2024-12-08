@@ -6,6 +6,8 @@ I. A Brief Project Overview
 
   This project integrates concepts from Object-Oriented Programming (OOP) to ensure the code is modular, scalable, and easy to maintain. The program also aligns with Sustainable Development Goal 12: Responsible Consumption and Production, promoting efficient resource use and waste reduction.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 II. Explanation of How OOP Principles Were Applied
 
 ---Encapsulation---
@@ -25,12 +27,16 @@ This protects the integrity of the data and ensures validation rules (e.g., non-
 
   The Tracker class is abstract, meaning it cannot be instantiated directly. Instead, it provides a blueprint for specific trackers, emphasizing the essential details and hiding implementation complexities.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 III. Details of the Chosen SDG and Its Integration into the Project
 
 ---Sustainable Development Goal 12: Responsible Consumption and Production---
 
   Encouraging households to monitor and optimize their energy and water usage.
 Highlighting the environmental impact of waste generation through a sustainability score. Raising awareness about resource efficiency and sustainable living. By providing reports and scores, the Green Home Tracker helps users make informed decisions that contribute to reducing their ecological footprint.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 IV. Instructions for Running the Program
 
