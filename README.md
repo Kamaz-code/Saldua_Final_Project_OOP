@@ -1,4 +1,4 @@
-# I. A Brief Project Overview
+# I. Project Overview
 
   The Green Home Tracker is a Java-based program designed to help households monitor their environmental impact or footprint by tracking energy consumption, water usage, and waste generation. The program calculates a sustainability score based on the tracked data, encouraging users to adopt eco-friendly practices.
 
@@ -6,7 +6,7 @@
 
 ---
 
-# II. Explanation of How OOP Principles Were Applied
+# II. OOP Principles
 
 - **Encapsulation**
 
