@@ -35,7 +35,7 @@ This protects the integrity of the data and ensures validation rules (e.g., non-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-IV. Instructions for Running the Program
+# IV. Instructions for Running the Program
 
 - **Prerequisites**
 
