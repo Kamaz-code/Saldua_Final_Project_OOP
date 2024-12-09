@@ -1,18 +1,16 @@
-# Saldua_Final_Project_OOP
-
-I. A Brief Project Overview
+# I. A Brief Project Overview
 
   The Green Home Tracker is a Java-based program designed to help households monitor their environmental impact or footprint by tracking energy consumption, water usage, and waste generation. The program calculates a sustainability score based on the tracked data, encouraging users to adopt eco-friendly practices.
 
   This project integrates concepts from Object-Oriented Programming (OOP) to ensure the code is modular, scalable, and easy to maintain. The program also aligns with Sustainable Development Goal 12: Responsible Consumption and Production, promoting efficient resource use and waste reduction.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-II. Explanation of How OOP Principles Were Applied
+# II. Explanation of How OOP Principles Were Applied
 
 --- Encapsulation ---
 
-  Each resource tracker (Energy, Water, Waste) is represented as a class with private fields (e.g., electricityUsage, waterUsage) that can only be accessed or modified through public getter and setter methods.
+  Each resource tracker (Energy, Water, Waste) is represented as a class with private fields (e.g., `electricityUsage`, `waterUsage`) that can only be accessed or modified through public getter and setter methods.
 This protects the integrity of the data and ensures validation rules (e.g., non-negative values) are enforced.
 
 --- Inheritance ---
